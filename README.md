@@ -6,8 +6,8 @@ An authentication based system to Download/Export data from PhpMyAdmin without l
 - Form built using Bootstrap, PHP and MySQLi
 - Secure Admin login.
 - Viewing the database entries in tablular format.
-- Exporting Contents of PhpMyAddmin via Export button.
-- Auto creation of column names as given on PhpMyAdmin.
+- Exporting Contents of PhpMyAddmin in .csv format via Export button.
+- Auto-creation of column names as given on PhpMyAdmin.
 
 
 ## Screenshots
